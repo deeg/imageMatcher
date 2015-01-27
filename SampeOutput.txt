@@ -1,0 +1,177 @@
+SlimeTorpedo.blf Match!
+Location ((0,0) Top Left): (0,0)
+Number of Hits (Matching Pixels): 113 out of 143
+Match percentage: 79
+Sub Image:
+
+ +  ++
+     +
++   ++
+ ++++++ + +
+  + +   +
++++   + ++
+  +++++  +
+ +   +   +
+ ++    +
+  ++++ +
++   ++  +
++  ++  +
+
+Starship.blf Match!
+Location ((0,0) Top Left): (78,9)
+Number of Hits (Matching Pixels): 110 out of 154
+Match percentage: 71
+Sub Image:
+   +
+   +     +
+ +++   ++   +
+    +++  +
+
++ +   +
+         +
+  ++  +   + +
+  +        +
+      ++ +
+            +
+
+Starship.blf Match!
+Location ((0,0) Top Left): (55,25)
+Number of Hits (Matching Pixels): 119 out of 154
+Match percentage: 77
+Sub Image:
+    +
+ +++ ++++++
+ +       +  +
+++  +  ++++++
+   +  ++
++     ++  +
+       +
+  +++++  ++++
+ +++    +  +
++++++  + +++++
+ +        ++ +
+
+Starship.blf Match!
+Location ((0,0) Top Left): (56,25)
+SlimeTorpedo.blf Match!
+Number of Hits (Matching Pixels): 112 out of 154
+Location ((0,0) Top Left): (20,36)
+Match percentage: 72
+Sub Image:
+Number of Hits (Matching Pixels): 102 out of 143
+   +
+Match percentage: 71
+Sub Image:
++++ ++++++
+     +
++       +  +
+     +
++  +  ++++++
+ +      +
+  +  ++
+     ++  +
+     ++  +   +
+    ++
+      +
+ + +
+ +++++  ++++
+  +     +
++++    +  +
+    ++
+++++  + ++++++
+++   ++  +
++        ++ +
+
++++    +++
+  +   + +
+         +
+      +   +
+
+Starship.blf Match!
+Location ((0,0) Top Left): (64,33)
+Number of Hits (Matching Pixels): 116 out of 154
+Match percentage: 75
+Sub Image:
+  +        +
++++++++ ++ +
+ ++ +  ++   +
+SlimeTorpedo.blf Match!
+  + + ++++ +
+Location ((0,0) Top Left): (10,45)
+ +    ++   ++
+Number of Hits (Matching Pixels): 102 out of 143
+ ++++
+Match percentage: 71
+Sub Image:
++ + +  + +  +
+       +  +
+   ++ ++  ++ +
+
+ ++    +
+     +
+  + ++++++++
+    + ++
+        +
+
+     + + +
+
+  +      +
+    +
+    +   +
+  +     +++
+      + + +
+      +
+
+
+Starship.blf Match!
+Location ((0,0) Top Left): (42,67)
+Number of Hits (Matching Pixels): 112 out of 154
+Match percentage: 72
+Sub Image:
+     +  +
+      ++ + +
+  ++  + +   +
+  +++++ ++ ++
++      ++
+     + ++ +
+  +    + +
+ +    +++  + +
+ +++     + ++
+    +  ++ +++
+
+
+Starship.blf Match!
+Location ((0,0) Top Left): (43,67)
+Number of Hits (Matching Pixels): 117 out of 154
+Match percentage: 75
+Sub Image:
+    +  +
+     ++ + +
+ ++  + +   +
+ +++++ ++ ++
+      ++     +
+    + ++ +
+ +    + +
++    +++  + ++
++++     + ++
+SlimeTorpedo.blf Match!
+   +  ++ +++
+Location ((0,0) Top Left): (25,78)
+
+
+Number of Hits (Matching Pixels): 105 out of 143
+Match percentage: 73
+Sub Image:
+  + +
+   + +
++    +    +
+ ++  ++
++++ + +  +
+  ++ + +
+ ++  +    +
+ +++++  ++
+ +++ +  ++
++ ++
++++++ + +
+  + + +
+  ++  ++++
